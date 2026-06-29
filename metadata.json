@@ -1,0 +1,6 @@
+{
+  "name": "Evently",
+  "description": "A premium, dynamic Event Management Platform designed for managing custom events, schedules, RSVPs, and guest lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
